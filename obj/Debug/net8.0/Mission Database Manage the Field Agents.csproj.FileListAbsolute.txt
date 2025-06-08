@@ -1,0 +1,40 @@
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\Mission Database Manage the Field Agents.exe
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\Mission Database Manage the Field Agents.deps.json
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\Mission Database Manage the Field Agents.runtimeconfig.json
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\Mission Database Manage the Field Agents.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\Mission Database Manage the Field Agents.pdb
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\obj\Debug\net8.0\Mission Database Manage the Field Agents.csproj.AssemblyReference.cache
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\obj\Debug\net8.0\Mission Database Manage the Field Agents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\obj\Debug\net8.0\Mission Database Manage the Field Agents.AssemblyInfoInputs.cache
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\obj\Debug\net8.0\Mission Database Manage the Field Agents.AssemblyInfo.cs
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\obj\Debug\net8.0\Mission Database Manage the Field Agents.csproj.CoreCompileInputs.cache
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\obj\Debug\net8.0\Mission .8425862A.Up2Date
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\obj\Debug\net8.0\Mission Database Manage the Field Agents.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\obj\Debug\net8.0\refint\Mission Database Manage the Field Agents.dll
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\obj\Debug\net8.0\Mission Database Manage the Field Agents.pdb
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\obj\Debug\net8.0\Mission Database Manage the Field Agents.genruntimeconfig.cache
+C:\Users\Neriya Malachi\source\repos\Mission Database Manage the Field Agents\obj\Debug\net8.0\ref\Mission Database Manage the Field Agents.dll

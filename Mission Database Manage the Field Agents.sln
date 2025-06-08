@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mission Database Manage the Field Agents", "Mission Database Manage the Field Agents.csproj", "{0346BE1E-E485-4C86-916A-D9DAFF4D74AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		Agent.cs = Agent.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{B8418F0C-B228-47A9-AF73-4CC1B5891888}"
+	ProjectSection(SolutionItems) = preProject
+		AgentDAL.cs = AgentDAL.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		Agent.cs = Agent.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0346BE1E-E485-4C86-916A-D9DAFF4D74AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0346BE1E-E485-4C86-916A-D9DAFF4D74AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0346BE1E-E485-4C86-916A-D9DAFF4D74AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0346BE1E-E485-4C86-916A-D9DAFF4D74AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A4A7C21-BEE9-4C86-8383-FF29BBB34D29}
+	EndGlobalSection
+EndGlobal
